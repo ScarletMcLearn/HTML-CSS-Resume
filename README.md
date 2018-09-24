@@ -10,13 +10,13 @@
 
 * Must use the following tags:
   <!--- heading (h1, h2, ...)-->
-  - paragraph (p)
+  <!--- paragraph (p)-->
   <!--- div-->
   <!--- lists (ul-li / ol-li)-->
   <!--- image (img)-->
   <!--- links (a)-->
   <!--- table (th, tr, td, ...)-->
-  - form (form, input, button, ...)
+  <!--- form (form, input, button, ...)-->
 
 Work & submit in a branch names **html**
 
