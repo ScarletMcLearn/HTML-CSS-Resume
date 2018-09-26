@@ -1,1 +1,38 @@
 /* Your CSS styles go here */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+
+h1{
+    font-family: sans-serif;
+}
+
+h2{
+    font-family:  'Sofia';
+}
+
+
+button {
+	background-color: pink;
+}
+
+button:hover {
+
+	background-color: hotpink;
+	
+
+	animation: color_change 1s;
+}
+
+
+em{
+    color: #e55039;
+}
+
+
+#lemon{
+    background-color: #38ada9;
+}
+
+#chill{
+    background-image: url("http://www.summersymphonylive.com/wp-content/uploads/2018/05/energy-power-puff-girls-pictures-the-powerpuff-reboot-loses-what-made-original-so-special-768x512.jpg");
+}
