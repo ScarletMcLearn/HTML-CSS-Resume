@@ -36,3 +36,26 @@ em{
 #chill{
     background-image: url("http://www.summersymphonylive.com/wp-content/uploads/2018/05/energy-power-puff-girls-pictures-the-powerpuff-reboot-loses-what-made-original-so-special-768x512.jpg");
 }
+
+
+
+@media (max-width: 500px) {
+   img  {
+text-align: center;
+margin: auto;
+   } 
+   
+}
+
+@media( max-width:700px){
+    body{text-align: center;
+         margin: auto;
+    }
+}
+
+
+@media( max-width:700px){
+    table{text-align: center;
+        margin: auto;
+    }
+}
